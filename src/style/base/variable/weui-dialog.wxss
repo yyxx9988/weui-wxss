@@ -20,6 +20,6 @@
 
 @weuiDialogBackgroundColor: #FFFFFF;
 @weuiDialogLineColor: #D5D5D6;
-@weuiDialogLinkColor: #46d104;
+@weuiDialogLinkColor: #8fc31f;
 @weuiDialogLinkActiveBc: #EEEEEE;
 @weuiDialogGapWidth: 1.6em;

@@ -20,7 +20,7 @@
 
 @import "../../base/fn.wxss";
 
-@weuiNavBarColor: #46d104;
+@weuiNavBarColor: #8fc31f;
 .weui-navbar {
     display: flex;
     position: absolute;

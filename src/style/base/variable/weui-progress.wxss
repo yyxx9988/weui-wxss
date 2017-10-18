@@ -19,7 +19,7 @@
 */
 
 @weuiProgressBg: #EBEBEB;
-@weuiProgressColor: #46d104;
+@weuiProgressColor: #8fc31f;
 @weuiProgressHeight: 3px;
 @weuiProgressCloseBg: #EF4F4F;
 @weuiProgressActiveBg: #C13E3E;

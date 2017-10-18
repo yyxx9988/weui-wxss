@@ -88,6 +88,6 @@
 .weui-search-bar__cancel-btn {
     margin-left: 10px;
     line-height: @weuiSearchBarHeight;
-    color: #46d104;
+    color: #8fc31f;
     white-space: nowrap;
 }
